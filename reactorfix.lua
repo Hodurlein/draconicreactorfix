@@ -39,11 +39,11 @@ if monitor == nil then
 end
 
 if fluxgate == nil then
-	error("No valid fluxgate was found")
+	error("No valid flowgate was found")
 end
 
 if inputFluxgate == nil then
-	error("No input fluxgate was found")
+	error("No input flowgate was found")
 end
 
 if reactor == nil then
